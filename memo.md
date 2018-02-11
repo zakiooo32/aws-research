@@ -11,3 +11,6 @@ csvやその他形式でエクスポートする
 |RDS||
 |ELB|test|
 
+
+RedMINETTTTTTT
+
