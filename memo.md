@@ -11,3 +11,9 @@ csvやその他形式でエクスポートする
 |RDS||
 |ELB||
 
+##参照コマンド
+・EC2
+aws ec2 describe-tags --filters "Name=resource-type,Values=instance"
+
+・ルートテーブル
+aws ec2 describe-tags --filters "Name=resource-type,Values=route-table"
