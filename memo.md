@@ -9,5 +9,5 @@ csvやその他形式でエクスポートする
 |VPC||
 |EC2||
 |RDS||
-|ELB|test|
+|ELB||
 
